@@ -1,0 +1,144 @@
+body{
+    font-family: 'Malish', sans-serif;
+    text-align: center;
+}
+.cont{
+    color: #c7dbf0;
+
+}
+h3{
+    text-align: inter-word;
+    text-align: center;
+    margin-top: 15px;
+    background-color: #c6dbf0;
+    color: #ec8a5d;
+    font-size: 23px;
+    font-family: 'Karla', sans-serif;
+}
+header{
+    background-color: #c8e3ff;
+    text-align: center;
+}
+header,.conteiner1,.conteiner2{
+    background: #c6dbf0;
+background: -moz-linear-gradient(top,  #c6dbf0 0%, #ec946a 100%);
+background: -webkit-linear-gradient(top,   #c6dbf0 0%, #ec946a  100%);
+background: linear-gradient(to bottom,  #c6dbf0 0%, #ec946a  100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#7db9e8',GradientType=1 );
+
+}
+h1{
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 600;
+    color: #de5b9d; 
+    margin-top: 25px;
+    margin-left: 95px;
+    margin-right: 95px;
+
+}
+h2{
+    background-color: #fc6e2e;
+    color: white;
+    font-size: 22px;
+    font-weight: 900;
+    margin-top: 15px;
+    margin-right: 95px;
+    margin-left: 95px;
+}
+.carousel{
+    margin: 0 auto 0 auto;
+    width: 500px;
+    height: 500px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+content{
+    text-align: center;
+    font-size: 59px;
+}
+h4{
+    text-transform: uppercase;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-family: 'Malish', sans-serif;
+    font-weight: 400;
+    color:#de5b9d ;
+    padding: 29px 52px 43px 52px;
+}
+h5{
+    margin-top: 35px;
+    margin-bottom: 65px;
+    margin-right: 110px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Karla', sans-serif;
+    margin-left: 110px;
+}
+
+img{
+    width: 300px; 
+}
+
+main{
+    text-align: center;
+    background-color:#c7dbf0 ;
+    margin-top: 28px;
+}
+a{
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 45px;
+    margin-bottom: 20px;
+    font-family: 'Malish', sans-serif;
+    color: #c8e3ff;
+    width: 170px;
+    background-color: #de5b9d;
+}
+.card{
+    text-align: center;
+    margin-top: 60px;
+    margin: 0 auto 0 auto;
+    margin-bottom: 47px;
+}
+.btn{
+    margin-top: 18px;
+    margin-bottom: 25px;
+    background-color:#de5b9d ;
+    color: #ffe7f5;
+}
+h6{
+    text-align: center;
+    font-family: 'Karla',sans-serif;
+    font-weight: 500px;
+    font-size: 50px;
+    color: white;
+
+}
+.navbar{
+    background-color: white;
+
+}
+.conteiner1{
+    margin-top: 130px;
+    padding: 29px 52px 29px 52px;
+}
+.conteiner2{
+    padding: 29px 52px 29px 52px;
+}
+.rounded{
+    margin-right:65px ;
+    margin-left: 65px;
+    width: 260px;
+
+}
+.conteiner3{
+    padding: 29px 52px 29px 52px;
+    background-color: #c6dbf0;
+}
+
+
+
